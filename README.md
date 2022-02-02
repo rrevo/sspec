@@ -49,6 +49,7 @@ Version 0.0.1
 * [Clojure spec](https://clojure.org/about/spec)
 * [Read the Docs - docs](https://docs.readthedocs.io/en/stable/index.html)
 * [Gherkin](https://cucumber.io/docs/gherkin/reference/)
+* [Literate Programming](https://en.wikipedia.org/wiki/Literate_programming)
 
 ### Articles
 
